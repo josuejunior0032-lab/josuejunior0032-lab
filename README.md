@@ -24,11 +24,10 @@ Me chamo Josué Teixeira Ferreira Filho, tenho 25 anos sou natural de Brasilia D
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-## 💻 Tecnologias e Ferramentas
-## 🐍 Minhas Contribuições
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/josuejunior0032-lab/josuejunior0032-lab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 ## 📊 GitHub Stats
 
