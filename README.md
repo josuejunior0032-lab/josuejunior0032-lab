@@ -26,8 +26,6 @@ Me chamo Josué Teixeira Ferreira Filho, tenho 25 anos sou natural de Brasilia D
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/josuejunior0032-lab/josuejunior0032-lab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+![animação de cobra](images/animacao_cobra.png)
 ## 📊 GitHub Stats
 
