@@ -26,5 +26,4 @@ Me chamo Josué Teixeira Ferreira Filho, tenho 25 anos sou natural de Brasilia D
 </p>
 
 
-## 📊 GitHub Stats
 
